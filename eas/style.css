@@ -1,0 +1,16 @@
+.row{
+    height: 10px;
+    border: solid 1px grey;
+    display: flex;
+}
+.block{
+    height: 10px;
+    border: solid 1px grey;
+    flex-grow: 0;
+    flex-shrink: 0;
+    border-right: solid 1px grey;
+}
+#newGridBtn{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
